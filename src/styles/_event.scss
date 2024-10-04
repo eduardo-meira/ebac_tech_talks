@@ -35,7 +35,8 @@
     }
     &__list {
       &__img {
-        margin-top: 24px;
+        display: flex;
+        margin: 24px auto;
         max-width: 100%;
       }
       &__text {
